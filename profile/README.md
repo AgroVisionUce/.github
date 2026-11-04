@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    <a href="https://agrovisionuce.atlassian.net/wiki/spaces/">📚 Documentación en Confluence</a> •
+    <a href="https://agrovisionuce.atlassian.net/wiki/x/VoET">📚 Documentación en Confluence</a> •
     <a href="#-propuesta-de-valor">💡 Propuesta de Valor</a> •
     <a href="#-funcionalidades-por-rol">🚀 Funcionalidades</a> •
     <a href="#-enfoque-arquitectónico-y-stack">🏗️ Arquitectura</a> •
